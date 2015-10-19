@@ -1,0 +1,10 @@
+TEST TEST TEST
+
+To earn this week 1 badge you must:
+
+ 1. Share one thought about how OER benefits you in your work context
+    here 
+ 2. Share one thought about how OER may not be so good for you at work here 
+ 3. Apply for the badge.
+
+<iframe height="180" src="//badges.p2pu.org/en/badge/view/770/embedded/" width="100%"></iframe>

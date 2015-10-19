@@ -3,31 +3,37 @@ layout: index
 published: true
 ---
 
-## Create a Learning Community that Lasts
+[NB This page is only a draft; at the moment it's more of a brain dump for things to include]
 
-Online courses often feel large, intimidating and anonymous. It's hard to feel invested
-in multiple choice quizzes, textbook chapters and hum-drum Q &amp; A forums where you
-don't know anyone.
+**General description**
 
-In a stellar learning experience, you'd know who was in the room and feel super-comfy.
-You'd make projects together and find help when you get stuck. You'd want to send people
-thank-you cards and chicken soup.
+Duration: 4 weeks x 3 hours = 12 hours 
 
-We know designing a creative, participatory community can be tricky. We're here to help
-you **craft assignments** that rule, **build an audience** and support you along the way. You'll
-even learn a few technical skills in the process. Don't worry, 1s and 0s wash off
-pretty easily.
-		
-## OK, but who are you guys?
+Target audience: teachers in primary, secondary, HE and private sectors across Europe (or the whole world?)
 
-We're [Peer 2 Peer University](http://p2pu.org)--we build learning communities
-on the web. In the last 5 years, we put together courses like 
-[Play With Your Music](http://www.playwithyourmusic.org/),
-[Learning Creative Learning](http://learn.media.mit.edu/lcl/), the
-[Deeper Learning MOOC](http://dlmooc.deeper-learning.org/), and
-[A Gentle Intro to Python](http://mechanicalmooc.org/). 
-Also, we're a non-profit and a distributed team (so we use the tools we recommend).
+**Short description**
 
-			
-## I'm in--how do I get started?
-Head over [here]({{site.baseurl}}/modules/start/about-this-course/) to create your own course!
+This open course will guide participants through the discovery, use and reuse of OER for teaching purposes in all sectors of education.  It will lead up to and include the creation of one OER and discussions about sharing. ExplOERer will explore inspiring approaches to select and use materials that have been created by others. This course will be highly attractive to both those who want to start using OER in their teaching and those who are already users but who are looking for an opportunity to create and share their own teaching resources for online teaching?
+
+**Learning outcomes**
+
+ - Awareness of benefits of OER
+ - Ability to search, discover and evaluate OERs
+ - Ability to adapt and reuse OERs for teaching
+
+You can do this on your own, and take part in the conversations every week, but don’t just interact online, make the most of it and bring your reflections to the workplace, do the course with a work colleague.
+
+Every week you will have the chance to complete an activity and earn a badge; at the end of the course, you will have the chance to apply for the ExplOERer badge.
+
+It should take you around 3 hours each week to work through the content and do the activities, including applying for a badge.
+
+This is a course about reuse so we have reused as much content as possible: thanks to Clint Lalonde, Alan Levine, David Wiley, Martin Weller, Paul Stacey and countless others without whose generosity this course would not have been possible. Sources identified as we go along.
+
+There might be a webinar with an expert every week.
+
+These are your course facilitators.
+
+Use the #explOERer hashtag if you tweet.
+
+Start by introducing yourself?
+Link to a survey (i.e. Google Form) who are you and why are you doing your course kind of thing?

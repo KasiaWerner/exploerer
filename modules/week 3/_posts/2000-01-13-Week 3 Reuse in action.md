@@ -1,0 +1,22 @@
+![Reused old tires in a children's playground][1]
+
+Photo Credit: [Children's Playground Bling][2] by Arlene, [CC BY-NC-ND 2.0][3]
+
+
+----------
+
+
+This week you are invited to follow and:
+
+ - Unpack the process of adaptation 
+ - Discuss ownership of reused resources
+ - Reflect on and share your own practices
+
+
+
+
+  [1]: http://s3.postimg.org/lv9uiexvn/1034886253_5045b2f68b.jpg
+  [2]: https://www.flickr.com/photos/arlenemc/1034886253/
+  [3]: https://creativecommons.org/licenses/by-nc-nd/2.0/
+  [4]: http://www.eschoolnews.com/2015/08/07/creating-oers-722/2/
+  [5]: https://open.uct.ac.za/bitstream/handle/11427/12937/WillmersOpenLicensing2015.pdf?sequence=3

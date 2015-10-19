@@ -1,0 +1,6 @@
+To earn this week 4 badge you must:
+
+ 1. Share a resource that you have created/reused and ask for feedback
+    from fellow course participants
+ 2. Provide feedback to a resource shared by a fellow course participant
+ 3. Apply for the badge

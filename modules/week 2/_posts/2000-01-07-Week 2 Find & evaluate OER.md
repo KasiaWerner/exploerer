@@ -1,0 +1,21 @@
+![Ladybird about to fly away][1]
+
+Photo Credit: [About to fly away][2] by Thomas Tolkien, [CC BY-NC 2.0][3]
+
+
+----------
+
+
+This week you are invited to jump in and:
+
+ - Learn about Creative Commons licenses
+ - Explore and add to your treasure chest of open resources
+
+ - Think about how you may go about evaluating the quality of open
+   resources
+
+ 
+
+  [1]: http://s27.postimg.org/b9p618x8j/6203641305_ba5b39f71c.jpg
+  [2]: https://www.flickr.com/photos/tomtolkien/6203641305/
+  [3]: https://creativecommons.org/licenses/by-nc/2.0/
