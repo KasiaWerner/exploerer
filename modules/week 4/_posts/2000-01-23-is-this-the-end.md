@@ -1,3 +1,7 @@
+---
+title: Is this THE END?
+---
+
 It is indeed, the end of the course but we hope also the beginning of many a journey into reusing and sharing.
 
 Thank you for making it this far. We hope it's been enjoyable.
