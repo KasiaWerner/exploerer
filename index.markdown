@@ -9,7 +9,7 @@ published: true
 
 Duration: 4 weeks x 3 hours = 12 hours 
 
-Target audience: teachers in primary, secondary, HE and private sectors across Europe (or the whole world?)
+Target audience: teachers in primary, secondary, HE and private sectors across Europe.
 
 **Short description**
 
