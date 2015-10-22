@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /exploerer
+baseurl:
 markdown: redcarpet
 permalink: /:categories/:title/
 
