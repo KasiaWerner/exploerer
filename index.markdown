@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-[NB This page is only a draft; at the moment it's more of a brain dump for things to include]
+[Note: This page is only a draft; at the moment it's more of a brain dump for things to include]
 
 **General description**
 
