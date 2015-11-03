@@ -23,7 +23,7 @@ This open course will guide participants through the discovery, use and reuse of
 
 You can do this on your own, and take part in the conversations every week, but don’t just interact online, make the most of it and bring your reflections to the workplace, do the course with a work colleague.
 
-Every week you will have the chance to complete an activity and earn a badge; at the end of the course, you will have the chance to apply for the ExplOERer badge.
+Every week you will have the chance to complete an activity and earn a badge; at the end of the course, you can apply to will have the chance to apply for the ExplOERer badge.
 
 It should take you around 3 hours each week to work through the content and do the activities, including applying for a badge.
 
@@ -31,5 +31,6 @@ This is a course about reuse so we have reused as much content as possible: than
 
 Use the #explOERer hashtag if you tweet.
 
-Start by introducing yourself?
-Link to a survey (i.e. Google Form) who are you and why are you doing your course kind of thing?
+If you have a question about the course, email us at: exploerercourse [at] gmail [dot] com
+
+This course is part of the ExplOERer Project, co-funded by the European Commission under the Erasmus+ programme to promote OER sustainability through OER adoption and re-use in professional practice. To learn more about us, head over to http://www.exploerer.gu.se
