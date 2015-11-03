@@ -17,7 +17,7 @@ You can take the course on your own, participating in the conversations and week
 
 The course has a duration of four weeks. You are expected to spend approximately 3 hours per week working through the content and doing the different activities. Every week you will have the chance to complete an activity and earn a badge; at the end of the course, after reflecting openly on your experience, you will be awarded The ExplOERer! badge.
 
-This is a course about reuse so in putting it together we have purposely reused as much content as possible, provided it was released under a Creative Commons license allowing adaptation, of course!. All sources have been clearly identified and appropriately attributed.
+This is a course about reuse so in putting it together we have purposely reused as much content as possible, provided it was released under a Creative Commons license allowing adaptation, of course! All sources have been clearly identified and appropriately attributed.
 
 If you tweet about the course, please use the #explOERer hashtag.
 
