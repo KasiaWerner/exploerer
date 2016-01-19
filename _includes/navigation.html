@@ -1,3 +1,4 @@
+{% include lang.html %}
 <!-- Navigation -->
 <nav class="navbar navbar-default" role="navigation">
 
@@ -13,10 +14,15 @@
 		<div class="collapse navbar-collapse" id="p2pu-menu">
 			<ul class="nav navbar-nav">
 				<li>
-					<a href="{{ site.baseurl }}/"><i class="fa fa-home"></i></a>
+        <a href="{{ site.baseurl }}/{{ language }}/"><i class="fa fa-home"></i></a>
 				</li>
-				{% for module in site.data.course.modules %}
-					{% assign first_post = site.categories[module]|reverse|first %}
+        {% assign lang_url_prefix='/'|append:language|append:'/' %}
+				{% for module in site.data[language].modules %}
+          {% for post in site.categories[module] %}
+              {% if post.url contains lang_url_prefix %}
+              {% assign first_post=post %}
+            {% endif %}
+          {% endfor %}
 					<li class="dropdown {% if page.categories[1] == module %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
 						<a href="{{ site.baseurl }}{{ first_post.url }}"
 						   class="dropdown-item">

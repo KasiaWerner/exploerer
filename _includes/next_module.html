@@ -2,16 +2,25 @@
 {% assign prev=null %}
 {% assign temp=null %}
 
+{% assign lang_url_prefix='/'|append:language|append:'/' %}
 {% for m in site.data.course.modules %}
 	{% if m == module and forloop.first != true %}
 		{% assign p = forloop.index0 | minus:1  %}
 		{% assign prev = site.data.course.modules[p] %}
-		{% assign prev_post = site.categories[prev]|reverse|first %}
+    {% for post in site.categories[prev] %}
+      {% if post.url contains lang_url_prefix %}
+        {% assign prev_post=post %}
+      {% endif %}
+    {% endfor %}
 	{% endif %}
 	{% if m == module and forloop.last != true %}
 		{% assign n = forloop.index0 | plus:1  %}
 		{% assign next = site.data.course.modules[n] %}
-		{% assign next_post = site.categories[next]|reverse|first %}
+    {% for post in site.categories[next] %}
+      {% if post.url contains lang_url_prefix %}
+        {% assign next_post=post %}
+      {% endif %}
+    {% endfor %}
 	{% endif %}
 {% endfor %}
 

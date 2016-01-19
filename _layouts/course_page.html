@@ -1,9 +1,9 @@
 ---
 layout: base
 ---
-{% assign module=page.categories[1] %}
+{% assign module=page.categories[2] %}
 <div class="clearfix">
-	{% include side_toolbar.html %}
+  {% include side_toolbar.html %}
 	<div class="col-md-9 background-white">
 		<div class="col-md-8 col-md-offset-1">
 			<div class="row">
@@ -17,7 +17,7 @@ layout: base
 					{% if prev %}
 						<div class="pagination-section pull-left">
 							<div class="title">
-								Previous section:
+                {{ site.data[language].previous_section }}
 							</div>
 							<a rel="prev" class="prev" href="{{ site.baseurl }}{{ prev.url }}">
 								{{ prev.title }} </a>
@@ -26,7 +26,7 @@ layout: base
 					{% if next %}
 						<div class="pagination-section pull-right">
 							<div class="title">
-								Next section:
+                {{ site.data[language].next_section }}
 							</div>
 							<a rel="next" class="next" href="{{ site.baseurl }}{{ next.url }}"> {{ next.title }}
 							</a>

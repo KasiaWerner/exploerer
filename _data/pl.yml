@@ -1,0 +1,9 @@
+title:  Exploerer Course in Polish
+description: Learning to (Re)Use Open Educational Resources
+modules: ['week 1', 'week 2', 'week 3', 'week 4']
+
+# Translation strings used in interface
+previous_module: 'Poprzedni moduł:'
+next_module: 'Następny moduł:'
+previous_section: 'Poprzednia sekcja:'
+next_section: 'Następna sekcja:'
