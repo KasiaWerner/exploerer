@@ -3,18 +3,18 @@
 <!--[if IE 7 ]><html lang="en" class="no-js ie7"> <![endif]-->
 <!--[if IE 8 ]><html lang="en" class="no-js ie8"> <![endif]-->
 <!--[if IE 9 ]><html lang="en" class="no-js ie9"> <![endif]-->
-<!--[if (gt IE 9)|!(IE)]><!-->
-<html lang="en" class="no-js"> <!--<![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->{% include lang.html %}
+<html lang="{{ language }}" class="no-js"> <!--<![endif]-->
 <head>
 	<script type="text/javascript">var _sf_startpt = (new Date()).getTime()</script>
 	<meta charset="utf-8">
 	<!--[if IE]><meta content='IE=8' http-equiv='X-UA-Compatible' /><![endif]-->
-
-	<title>{{ site.data.course.title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
-  {% if site.data.course.description %}<meta name="description" content="{{ site.data.course.description}}">{% endif %}
+  {% include lang.html %}
+	<title>{{ site.data[language].title }}{% if page.title %} | {{ page.title }}{% endif %}</title>
+  {% if site.data[language].description %}<meta name="description" content="{{ site.data[language].description}}">{% endif %}
   <meta name="author" content="{{ site.github.owner_name }}">
 
-  <meta property="og:title" content="{{ site.data.course.title }}" />
+  <meta property="og:title" content="{{ site.data[language].title }}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ site.github.url }}" />
 
@@ -60,24 +60,9 @@
   {% endfor %}
 {% endif %}
 
-<script>
+<!--script>
 	P2PU.ciab.init();
-</script>
-
-{% if page.url == '/index.html' %}
-<script src="{{site.baseurl}}/js/can.js"></script>
-<script src="{{site.baseurl}}/js/calendar.js"></script>
-<script type="text/javascript" src="https://addthisevent.com/libs/1.5.8/ate.min.js"></script>
-<script type="text/javascript">
-  var get_calendar = function () {
-    P2PU.ciab.calendar({
-        api_key: 'AIzaSyAs69MGQu7Bp8LCpeGZlhsoUwkFoD3sUro',
-        calendar_id: 'p2pu.org_bdbg1p5olhp0eo83mnqi7fvpfs@group.calendar.google.com'
-    });
-  }
-</script>
-<script src="https://apis.google.com/js/client.js?onload=get_calendar"></script>
-{% endif %}
+</script-->
 
 <!-- Google Analytics -->
 {% if site.ga_tracking_code or site.p2pu_ga_tracking_code %}

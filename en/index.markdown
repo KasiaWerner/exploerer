@@ -1,5 +1,6 @@
 ---
-layout: landing
+layout: index
+published: true
 ---
 
 **General description**
@@ -23,4 +24,3 @@ If you tweet about the course, please use the #explOERer hashtag.
 If you have a question about the course, email us at: exploerercourse [at] gmail [dot] com
 
 This course is part of the ExplOERer Project, co-funded by the European Commission under the Erasmus+ programme to promote OER sustainability through OER adoption and re-use in professional practice. To learn more about us, head over to http://www.exploerer.gu.se
-

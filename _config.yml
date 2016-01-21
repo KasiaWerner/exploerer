@@ -8,15 +8,32 @@ ga_tracking_code: UA-69186000-1
 # Please leave this code here for us to see how Course in a Box get used
 p2pu_ga_tracking_code: UA-55722824-1
 
+default_language: en
+languages:
+    - en
+    - sv
+    - pl
+
 # Some files we need to exclude, so Github can build the site
 exclude: [Gemfile, Gemfile.lock, README.md]
 
 defaults:
   -
     scope:
-      path: "modules" # an empty string here means all files in the project
+      path: "en/modules" # an empty string here means all files in the project
     values:
       layout: "course_page"
+  -
+    scope:
+      path: "pl/modules" # an empty string here means all files in the project
+    values:
+      layout: "course_page"
+  -
+    scope:
+      path: "sv/modules" # an empty string here means all files in the project
+    values:
+      layout: "course_page"
+
 
 prose:
   media: img

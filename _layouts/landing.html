@@ -13,12 +13,14 @@ layout: base
 			<h1>{{ site.data[language].description }}</h1>
 		</header>
 
-		<p>
-      <div class="row">
-        {% assign signup_include='signup-'|append:language|append:'.html' %}
-        {% include {{ signup_include }} %}
-      </div>
-		</p>
+    <div class="row">
+      <p>The course is available in:</p>
+      <ul class="list-unstyled">
+        <li><a href="{{site.baseurl}}/en/">English</a></li>
+        <li><a href="{{site.baseurl}}/sv/">Svenska</a></li>
+        <li><a href="{{site.baseurl}}/pl/">Polskie</a></li>
+      </ul>
+    </div>
 
 		<!--h3>In collaboration with <a href="http://p2pu.org">P2PU</a>.</h3-->
 	</div>
