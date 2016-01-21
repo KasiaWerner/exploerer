@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: landing
 ---
 
 **General description**
@@ -24,7 +24,3 @@ If you have a question about the course, email us at: exploerercourse [at] gmail
 
 This course is part of the ExplOERer Project, co-funded by the European Commission under the Erasmus+ programme to promote OER sustainability through OER adoption and re-use in professional practice. To learn more about us, head over to http://www.exploerer.gu.se
 
-**Other languages**
-
-- [Swedish version]({{site.baseurl}}/sv/)
-- [Polish version]({{site.baseurl}}/pl/)

@@ -3,10 +3,10 @@
 {% assign temp=null %}
 
 {% assign lang_url_prefix='/'|append:language|append:'/' %}
-{% for m in site.data.course.modules %}
+{% for m in site.data[language].modules %}
 	{% if m == module and forloop.first != true %}
 		{% assign p = forloop.index0 | minus:1  %}
-		{% assign prev = site.data.course.modules[p] %}
+		{% assign prev = site.data[language].modules[p] %}
     {% for post in site.categories[prev] %}
       {% if post.url contains lang_url_prefix %}
         {% assign prev_post=post %}
@@ -15,7 +15,7 @@
 	{% endif %}
 	{% if m == module and forloop.last != true %}
 		{% assign n = forloop.index0 | plus:1  %}
-		{% assign next = site.data.course.modules[n] %}
+		{% assign next = site.data[language].modules[n] %}
     {% for post in site.categories[next] %}
       {% if post.url contains lang_url_prefix %}
         {% assign next_post=post %}

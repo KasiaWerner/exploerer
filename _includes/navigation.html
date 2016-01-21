@@ -23,16 +23,26 @@
               {% assign first_post=post %}
             {% endif %}
           {% endfor %}
-					<li class="dropdown {% if page.categories[1] == module %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
+					<li class="{% if page.categories[1] == module %}active{% endif %} {% if forloop.first %}first{% endif %} {% if forloop.last %}last{% endif %}">
 						<a href="{{ site.baseurl }}{{ first_post.url }}"
-						   class="dropdown-item">
+						   class="">
 							{{ module }}
 						</a>
 					</li>
 				{% endfor %}
 			</ul>
+      <ul class="nav navbar-nav pull-right">
+        <!--li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Dropdown <span class="caret"></span></a>
+          <ul class="dropdown-menu"-->
+            {% if language != 'en' %}<li><a href="{{ site.baseurl }}/en/">English</a></li>{% endif %}
+            {% if language != 'sv' %}<li><a href="{{ site.baseurl }}/sv/">Svenska</a></li>{% endif %}
+            {% if language != 'pl' %}<li><a href="{{ site.baseurl }}/pl/">Polskie</a></li>{% endif %}
+          <!--/ul>
+        </li-->
+      </ul>
 			<ul class="p2pu-logo">
-				<li><a class="p2pu-tab" href="#"><img src="{{ site.baseurl }}/img/logo.png" alt="{{ site.title }}" /></a></li>
+				<li><a class="p2pu-tab" href="https://www.p2pu.org/" target="_blank"><img src="{{ site.baseurl }}/img/logo.png" alt="{{ site.title }}" /></a></li>
 			</ul>
 		</div>
 		<!-- /.navbar-collapse -->
