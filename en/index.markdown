@@ -4,7 +4,7 @@ published: true
 ---
 
 **General description**
-
+--
 This open course will guide participants through the discovery, use and reuse of open educational resources (OER) for teaching purposes in all sectors of education. Together we will explore approaches to selecting and using materials that have been created by others, unpack the process of adaptation and discuss sharing and networking. This course will be highly attractive to both those who want to start using OER in their teaching and those who are already users but who are looking for an opportunity to create and share their own teaching resources for teaching.
 
 **Learning outcomes**
