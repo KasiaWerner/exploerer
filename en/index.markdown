@@ -15,7 +15,7 @@ This open course will guide participants through the discovery, use and reuse of
 
 **What is expected of participants?**
 -
-The course has a duration of **four weeks**. You are expected to spend approximately **3 hours per week** working through the content and doing the different activities, **supported by a course facilitator**. Every week you will have the chance to **earn a badge**; at the end of the course, after reflecting openly on your experience, you can apply to be awarded The ExplOERer! badge.
+The course has a duration of --four weeks--. You are expected to spend approximately **3 hours per week** working through the content and doing the different activities, **supported by a course facilitator**. Every week you will have the chance to **earn a badge**; at the end of the course, after reflecting openly on your experience, you can apply to be awarded The ExplOERer! badge.
 
 You are also invited to take part in a series of four **webinars** where experts in the field, experienced educators and panelists will discuss the week's topics and answer your questions.
 
