@@ -22,6 +22,8 @@ You can take the course on your own, participating in the conversations and week
 
 If you tweet about the course, please use the #explOERer hashtag.
 
+**Questions?**
+-
 If you have a question about the course, email us at: exploerercourse [at] gmail [dot] com
 
 **Acknowledgements**
