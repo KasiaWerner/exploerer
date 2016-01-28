@@ -23,7 +23,7 @@ You can take the course on your own, participating in the conversations and week
 If you tweet about the course, please use the #explOERer hashtag.
 
 If you have a question about the course, email us at: exploerercourse [at] gmail [dot] com
-
+----------
 **Acknowledgements**
 
 This is a course about reuse so in putting it together we have purposely reused as much content as possible, provided it was released under a Creative Commons license allowing adaptation. All sources have been clearly identified and appropriately attributed.
