@@ -17,10 +17,13 @@ You can take the course on your own, participating in the conversations and week
 
 The course has a duration of four weeks. You are expected to spend approximately 3 hours per week working through the content and doing the different activities. Every week you will have the chance to complete an activity and earn a badge; at the end of the course, after reflecting openly on your experience, you will be awarded The ExplOERer! badge.
 
-This is a course about reuse so in putting it together we have purposely reused as much content as possible, provided it was released under a Creative Commons license allowing adaptation, of course! All sources have been clearly identified and appropriately attributed.
 
 If you tweet about the course, please use the #explOERer hashtag.
 
 If you have a question about the course, email us at: exploerercourse [at] gmail [dot] com
+
+**Acknowledgements**
+
+This is a course about reuse so in putting it together we have purposely reused as much content as possible, provided it was released under a Creative Commons license allowing adaptation. All sources have been clearly identified and appropriately attributed.
 
 This course is part of the ExplOERer Project, co-funded by the European Commission under the Erasmus+ programme to promote OER sustainability through OER adoption and re-use in professional practice. To learn more about us, head over to http://www.exploerer.gu.se
