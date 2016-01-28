@@ -17,9 +17,9 @@ This open course will guide participants through the discovery, use and reuse of
 -
 The course has a duration of **four weeks**. You are expected to spend approximately **3 hours per week** working through the content and doing the different activities, **supported by a course facilitator**. Every week you will have the chance to **earn a badge**; at the end of the course, after reflecting openly on your experience, you can apply to be awarded The ExplOERer! badge.
 
-You are also invited to take part in a series of four #webinars where experts in the field, experienced educators and panelists will discuss the week's topics and answer your questions.
+You are also invited to take part in a series of four #webinars# where experts in the field, experienced educators and panelists will discuss the week's topics and answer your questions.
 
-You can take the course on your own, participating in the conversations and weekly webinars, but you are also encouraged to *step outside online boundaries*: bring your reflections to your own workplace, do the course with a colleague and together share practices face-to-face.
+You can take the course on your own, participating in the conversations and weekly webinars, but you are also encouraged to **step outside online boundaries**: bring your reflections to your own workplace, do the course with a colleague and together share practices face-to-face.
 
 If you tweet about the course, please use the #explOERer hashtag.
 
