@@ -13,9 +13,11 @@ This open course will guide participants through the discovery, use and reuse of
  - Ability to search, discover and evaluate OER
  - Understanding of the process of adapting and reusing OER for teaching
 
-You can take the course on your own, participating in the conversations and weekly webinars, but you are also encouraged to step outside online boundaries: bring your reflections to your own workplace, do the course with a colleague and together share practices face-to-face.
+**What is expected of participants?**
 
 The course has a duration of four weeks. You are expected to spend approximately 3 hours per week working through the content and doing the different activities. Every week you will have the chance to complete an activity and earn a badge; at the end of the course, after reflecting openly on your experience, you will be awarded The ExplOERer! badge.
+
+You can take the course on your own, participating in the conversations and weekly webinars, but you are also encouraged to step outside online boundaries: bring your reflections to your own workplace, do the course with a colleague and together share practices face-to-face.
 
 
 If you tweet about the course, please use the #explOERer hashtag.
