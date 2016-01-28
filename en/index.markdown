@@ -22,7 +22,7 @@ You can take the course on your own, participating in the conversations and week
 If you tweet about the course, please use the #explOERer hashtag.
 
 **Are you ready?**
-
+-
 Fill in the fields at the top of the screen to register for the course, then introduce yourself in the [forum][1].
 
 **Questions?**
