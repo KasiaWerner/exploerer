@@ -6,7 +6,7 @@ It is indeed, the end of the course but we hope also the beginning of many a jou
 
 Thank you for making it this far. We hope it's been enjoyable.
 
-For a chance to earn the most important of all badges, The explOERer! you are invited to reflect on the following questions: 
+For a chance to earn the most important of all badges, **The explOERer**! you are invited to reflect on the following questions: 
 
  - What has been your experience of the course?
  - What have you learnt?
@@ -14,6 +14,6 @@ For a chance to earn the most important of all badges, The explOERer! you are in
    sharing?
  - What are you going to do next?
 
-Publish your reflection openly and The explOERer will be yours!
+Publish your reflection openly and **The explOERer** will be yours! 
 
 <iframe height="180" src="//badges.p2pu.org/en/badge/view/788/embedded/" width="100%"></iframe>
