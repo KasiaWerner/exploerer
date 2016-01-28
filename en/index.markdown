@@ -28,4 +28,5 @@ If you have a question about the course, email us at: exploerercourse [at] gmail
 -
 This is a course about reuse so in putting it together we have purposely reused as much content as possible, provided it was released under a Creative Commons license allowing adaptation. All sources have been clearly identified and appropriately attributed.
 
-This course is part of the ExplOERer Project, co-funded by the European Commission under the Erasmus+ programme to promote OER sustainability through OER adoption and re-use in professional practice. To learn more about us, head over to http://www.exploerer.gu.se
+This course is part of the ExplOERer Project, co-funded by the European Commission under the Erasmus+ programme to promote OER sustainability through OER adoption and re-use in professional practice. To learn more about us, head over to [http://www.exploerer.gu.se] [1]
+[1]:http://www.exploerer.gu.se
