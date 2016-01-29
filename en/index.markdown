@@ -3,6 +3,10 @@ layout: index
 published: true
 ---
 
+**The course starts on February 22nd, are you ready?**
+-
+Fill in the fields above to register, browse the course content by clicking on the different weeks at the top left of the screen, and introduce yourself in the [forum][1].
+
 **General description**
 -
 This open course will guide participants through the discovery, use and reuse of open educational resources (OER) for teaching purposes in all sectors of education. Together we will explore approaches to selecting and using materials that have been created by others, unpack the process of adaptation and discuss sharing and networking. This course will be highly attractive to both those who want to start using OER in their teaching and those who are already users but who are looking for an opportunity to create and share their own teaching resources for teaching.
@@ -23,9 +27,6 @@ You can take the course on your own, participating in the conversations and week
 
 If you tweet about the course, please use the #explOERer hashtag.
 
-**The course starts on February 22nd, are you ready?**
--
-Fill in the fields at the top of the screen to register for the course, then introduce yourself in the [forum][1].
 
 **Questions?**
 -
