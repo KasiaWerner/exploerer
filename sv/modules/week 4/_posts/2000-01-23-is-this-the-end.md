@@ -1,19 +1,18 @@
 ---
-title: Is this THE END?
+title: Är detta SLUTET?
 ---
 
-It is indeed, the end of the course but we hope also the beginning of many a journey into reusing and sharing.
+Det är det faktiskt; slutet på kursen men vi hoppas att det är början på många resor kring återanvändning och delning.
 
-Thank you for making it this far. We hope it's been enjoyable.
+Tack så mycket för att du varit med. Vi hoppas att du har fått nytta av kursen.
 
-For a chance to earn the most important of all badges, The explOERer! you are invited to reflect on the following questions: 
+För att förvärva den viktigaste av alla badger, The explOERer! ska du reflektera över följande frågor:  
 
- - What has been your experience of the course?
- - What have you learnt?
- - Has the course changed your thinking and your doing around reuse and
-   sharing?
- - What are you going to do next?
+ - Vad har varit den värdefullastet erfarenheten att ta med dig från kursen?
+ - Vad har du lärt dig?
+ - Har kursen ändrat ditt synsätt kring återanvändning och delning?
+ - Vad ska du göra nu?
 
-Publish your reflection openly and The explOERer will be yours!
+Publicera din reflektion öppet och du har förvärvat The explOERer!
 
 <iframe height="180" src="//badges.p2pu.org/en/badge/view/788/embedded/" width="100%"></iframe>
