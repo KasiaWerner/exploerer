@@ -2,6 +2,6 @@
 title: Diskussion
 ---
 
-# Discussion
+# Diskussion
 
 {% include disqus.html %}
