@@ -17,3 +17,5 @@ For a chance to earn the most important of all badges, **The explOERer**! you ar
 Publish your reflection openly and **The explOERer** will be yours! 
 
 <iframe height="180" src="//badges.p2pu.org/en/badge/view/788/embedded/" width="100%"></iframe>
+
+{% include disqus.html %}
