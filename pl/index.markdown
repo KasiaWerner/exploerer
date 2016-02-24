@@ -18,6 +18,7 @@ Po zakończeniu kursu będziesz:
  - rozumieć proces adaptacji i ponownego wykorzystania Otwartych Zasobów Edukacyjnych do celów dydaktycznych.
 
 **Zaplanuj swój udział w kursie**
+
 Kurs trwa 4 tygodnie. W każdym tygodniu realizowany jest jeden temat. Przystępując do kursu powinieneś/powinnaś zaplanować 3 godziny tygodniowo oraz logować się co najmniej 3 razy w tygodniu, aby maksymalnie wykorzystać kurs. Staraj się logować dwukrotnie w ciągu dnia - np. rano, aby uzupełnić własne aktywności i wieczorem, by przeczytać i skomentować aktywności innych uczestników i prowadzących.
 Po każdym tygodniu możesz otrzymać cyfrową odznakę (badge) za wykonaną pracę. Na zakończenie kursu i po opublikowaniu refleksji na temat twojego doświadczenia zdobytego na kursie, możesz zdobyć odznakę praktyka-odkrywcy OZE - czyli odznakę ExplOERer’a.
 
