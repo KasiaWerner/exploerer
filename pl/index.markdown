@@ -3,24 +3,37 @@ layout: index
 published: true
 ---
 
-**General description**
+**Opis kursu**
 
-This open course will guide participants through the discovery, use and reuse of open educational resources (OER) for teaching purposes in all sectors of education. Together we will explore approaches to selecting and using materials that have been created by others, unpack the process of adaptation and discuss sharing and networking. This course will be highly attractive to both those who want to start using OER in their teaching and those who are already users but who are looking for an opportunity to create and share their own teaching resources for teaching.
+Celem kursu jest przede wszystkim wprowadzenie w tematykę otwartych zasobów oraz przekazanie podstawowych umiejętności ich pozyskiwania, dostosowywania do swoich potrzeb i dalszego udostępniania. Poznasz efektywne sposoby selekcji i wykorzystania materiałów opracowanych przez innych. Podczas kursu będziesz mieć okazję poznać innych nauczycieli akademickich, dyskutować z nimi i uczyć się wzajemnie o procesie adaptacji. Kurs będzie okazją do tego, aby dzielić się swoimi doświadczeniami i stać się częścią społeczności praktyków korzystających z otwartych zasobów online. 
 
-**Learning outcomes**
+Jeśli planujesz zacząć korzystać z OZE we własnej praktyce dydaktycznej kurs będzie dla ciebie świetnym punktem startowym, który da ci szeroki ogląd na otwartość i zasoby. Jeśli już posiadasz takie doświadczenia, ale stale szukasz okazji, aby stworzyć i podzielić się samodzielnie opracowanymi materiałami dydaktycznymi z innymi, kurs to także dobre miejsce dla ciebie. Dodatkowo to szansa na poznanie innych osób, refleksję i dyskusję w gromie akademików.
 
- - Awareness of benefits and disadvantages of using OER
- - Ability to search, discover and evaluate OER
- - Understanding of the process of adapting and reusing OER for teaching
+**Rezultaty**
+Po zakończeniu kursu będziesz:
 
-You can take the course on your own, participating in the conversations and weekly webinars, but you are also encouraged to step outside online boundaries: bring your reflections to your own workplace, do the course with a colleague and together share practices face-to-face.
+ - rozumieć korzyści i wyzwania wynikające z korzystania z Otwartych Zasobów Edukacyjnych;
+ - potrafił/ła wyszukiwać, selekcjonować i oceniać Otwarte Zasoby Edukacyjne;
+ - rozumieć proces adaptacji i ponownego wykorzystania Otwartych Zasobów Edukacyjnych do celów dydaktycznych.
 
-The course has a duration of four weeks. You are expected to spend approximately 3 hours per week working through the content and doing the different activities. Every week you will have the chance to complete an activity and earn a badge; at the end of the course, after reflecting openly on your experience, you will be awarded The ExplOERer! badge.
+**Zaplanuj swój udział w kursie**
+Kurs trwa 4 tygodnie. W każdym tygodniu realizowany jest jeden temat. Przystępując do kursu powinieneś/powinnaś zaplanować 3 godziny tygodniowo oraz logować się co najmniej 3 razy w tygodniu, aby maksymalnie wykorzystać kurs. Staraj się logować dwukrotnie w ciągu dnia - np. rano, aby uzupełnić własne aktywności i wieczorem, by przeczytać i skomentować aktywności innych uczestników i prowadzących.
+Po każdym tygodniu możesz otrzymać cyfrową odznakę (badge) za wykonaną pracę. Na zakończenie kursu i po opublikowaniu refleksji na temat twojego doświadczenia zdobytego na kursie, możesz zdobyć odznakę praktyka-odkrywcy OZE - czyli odznakę ExplOERer’a.
 
-This is a course about reuse so in putting it together we have purposely reused as much content as possible, provided it was released under a Creative Commons license allowing adaptation, of course! All sources have been clearly identified and appropriately attributed.
+W ramach kursu zostaną zorganizowane webinary, podczas których praktycy, eksperci i edukatorzy będą odnosić się do tematów poruszanych w kursie i odpowiedzą na twoje pytania. 
 
-If you tweet about the course, please use the #explOERer hashtag.
+To w jaki sposób będziesz angażować się w przebieg kursu zależy od ciebie. W wersji podstawowej możesz realizować go samodzielnie poprzez studiowanie materiałów i wykonywanie ćwiczeń. Możesz brać udział w dyskusjach z uczestnikami i cotygodniowych webinarach. Szczególnie zachęcamy cię jednak, abyś dzielił/ła się swoją wiedzą, doświadczeniem i refleksjami z kursu w twoim miejscu pracy. Jeśli to możliwe zachęć swoich współpracowników i jako grupa bądźcie obecni na kursie, dyskutujcie online, ale także offline. Taka forma zaangażowania w kurs będzie dla ciebie i twoich kolegów i koleżanek z pracy świetną okazją do refleksji nad OZE w waszym, unikatowym kontekście. 
 
-If you have a question about the course, email us at: exploerercourse [at] gmail [dot] com
+Jeśli planujesz pisać o swoim udziale w kursie na Twitterze - oficjalny hastag dla kursu to #explOERer.
 
-This course is part of the ExplOERer Project, co-funded by the European Commission under the Erasmus+ programme to promote OER sustainability through OER adoption and re-use in professional practice. To learn more about us, head over to http://www.exploerer.gu.se
+**Czy jesteś gotów, aby rozpocząć kurs?** 
+Aby przejść do polskiej wersji kursu, kliknij w link na górze strony odpowiadający tej wersji językowej i zarejestruj się. 
+
+**Pytania?**
+Jeśli masz pytania dotyczące kursu, napisz do nas na adres: karolinagrodecka@gmail.com
+
+**Podziękowania** 
+Ponieważ kurs dotyczy Otwartych Zasobów Edukacyjnych i ich adaptacji, podczas opracowania jego zawartości celowo i świadomie wykorzystaliśmy istniejące otwarte zasoby wszędzie, gdzie było to możliwe. Sam kurs jest także udostępniony na licencji Creative Commons umożliwiającej adaptację. Wszystkie wykorzystane zasoby zostały precyzyjnie oznaczone pod względem źródła i autorstwa.  
+
+Kurs jest częścią projektu ExplOERer, realizowanego przy wsparciu Komisji Europejskiej w ramach programu Erasmus+, którego celem strategicznym jest promocja trwałości Otwartych Zasobów Edukacyjnych poprzez ich adaptację i ponowne wykorzystanie w kontekście zawodowym. 
+
