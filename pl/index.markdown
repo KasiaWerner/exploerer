@@ -10,6 +10,7 @@ Celem kursu jest przede wszystkim wprowadzenie w tematykę otwartych zasobów or
 Jeśli planujesz zacząć korzystać z OZE we własnej praktyce dydaktycznej kurs będzie dla ciebie świetnym punktem startowym, który da ci szeroki ogląd na otwartość i zasoby. Jeśli już posiadasz takie doświadczenia, ale stale szukasz okazji, aby stworzyć i podzielić się samodzielnie opracowanymi materiałami dydaktycznymi z innymi, kurs to także dobre miejsce dla ciebie. Dodatkowo to szansa na poznanie innych osób, refleksję i dyskusję w gromie akademików.
 
 **Rezultaty**
+
 Po zakończeniu kursu będziesz:
 
  - rozumieć korzyści i wyzwania wynikające z korzystania z Otwartych Zasobów Edukacyjnych;
@@ -27,12 +28,15 @@ To w jaki sposób będziesz angażować się w przebieg kursu zależy od ciebie.
 Jeśli planujesz pisać o swoim udziale w kursie na Twitterze - oficjalny hastag dla kursu to #explOERer.
 
 **Czy jesteś gotów, aby rozpocząć kurs?** 
+
 Aby przejść do polskiej wersji kursu, kliknij w link na górze strony odpowiadający tej wersji językowej i zarejestruj się. 
 
 **Pytania?**
+
 Jeśli masz pytania dotyczące kursu, napisz do nas na adres: karolinagrodecka@gmail.com
 
 **Podziękowania** 
+
 Ponieważ kurs dotyczy Otwartych Zasobów Edukacyjnych i ich adaptacji, podczas opracowania jego zawartości celowo i świadomie wykorzystaliśmy istniejące otwarte zasoby wszędzie, gdzie było to możliwe. Sam kurs jest także udostępniony na licencji Creative Commons umożliwiającej adaptację. Wszystkie wykorzystane zasoby zostały precyzyjnie oznaczone pod względem źródła i autorstwa.  
 
 Kurs jest częścią projektu ExplOERer, realizowanego przy wsparciu Komisji Europejskiej w ramach programu Erasmus+, którego celem strategicznym jest promocja trwałości Otwartych Zasobów Edukacyjnych poprzez ich adaptację i ponowne wykorzystanie w kontekście zawodowym. 
