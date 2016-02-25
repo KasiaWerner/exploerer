@@ -1,19 +1,18 @@
 ---
-title: Is this THE END?
+title: Czy to już koniec? 
 ---
 
-It is indeed, the end of the course but we hope also the beginning of many a journey into reusing and sharing.
+Tak, to faktycznie koniec kursu. Jednak jesteśmy przekonani, że zakończenie kursu oznacza dla ciebie dopiero początek działań związanych z re-use i dzieleniem się zasobami.
 
-Thank you for making it this far. We hope it's been enjoyable.
+Dziękujemy, że byłeś/łaś z nami przez te 4 tygodnie.  Mamy nadzieję, że kurs był dla ciebie ciekawy.
 
-For a chance to earn the most important of all badges, The explOERer! you are invited to reflect on the following questions: 
+Aby zdobyć tą najważniejszą z odznak - odznakę explOERer! zapraszamy cię do refleksji na następujące pytania: 
 
- - What has been your experience of the course?
- - What have you learnt?
- - Has the course changed your thinking and your doing around reuse and
-   sharing?
- - What are you going to do next?
+ - Jakie są twoje doświadczenia z kursu? 
+ - Czego się nauczyłeś/łaś?
+ - Czy kurs wpłynął na twój stosunek do ponownego wykorzystania zasobów i dzielenie się? 
+ - Jaki będzie twój kolejny krok?
 
-Publish your reflection openly and The explOERer will be yours!
+Podziel się swoją refleksją na forum, a odznaka explOERer’a będzie twoja!
 
 <iframe height="180" src="//badges.p2pu.org/en/badge/view/788/embedded/" width="100%"></iframe>
