@@ -20,9 +20,9 @@ Po zakończeniu kursu będziesz:
 **Zaplanuj swój udział w kursie**
 -
 Kurs trwa 4 tygodnie. W każdym tygodniu realizowany jest jeden temat. Przystępując do kursu powinieneś/powinnaś zaplanować 3 godziny tygodniowo oraz logować się co najmniej 3 razy w tygodniu, aby maksymalnie wykorzystać kurs. Staraj się logować dwukrotnie w ciągu dnia - np. rano, aby uzupełnić własne aktywności i wieczorem, by przeczytać i skomentować aktywności innych uczestników i prowadzących.
-Po każdym tygodniu możesz otrzymać cyfrową odznakę (badge) za wykonaną pracę. Na zakończenie kursu i po opublikowaniu refleksji na temat twojego doświadczenia zdobytego na kursie, możesz zdobyć odznakę praktyka-odkrywcy OZE - czyli odznakę ExplOERer’a.
+Po każdym tygodniu możesz otrzymać **cyfrową odznakę (badge)** za wykonaną pracę. Na zakończenie kursu i po opublikowaniu refleksji na temat twojego doświadczenia zdobytego na kursie, możesz zdobyć odznakę praktyka-odkrywcy OZE - czyli odznakę ExplOERer’a.
 
-W ramach kursu zostaną zorganizowane webinary, podczas których praktycy, eksperci i edukatorzy będą odnosić się do tematów poruszanych w kursie i odpowiedzą na twoje pytania. 
+W ramach kursu zostaną zorganizowane **webinary**, podczas których praktycy, eksperci i edukatorzy będą odnosić się do tematów poruszanych w kursie i odpowiedzą na twoje pytania. 
 
 To w jaki sposób będziesz angażować się w przebieg kursu zależy od ciebie. W wersji podstawowej możesz realizować go samodzielnie poprzez studiowanie materiałów i wykonywanie ćwiczeń. Możesz brać udział w dyskusjach z uczestnikami i cotygodniowych webinarach. Szczególnie zachęcamy cię jednak, abyś dzielił/ła się swoją wiedzą, doświadczeniem i refleksjami z kursu w twoim miejscu pracy. Jeśli to możliwe zachęć swoich współpracowników i jako grupa bądźcie obecni na kursie, dyskutujcie online, ale także offline. Taka forma zaangażowania w kurs będzie dla ciebie i twoich kolegów i koleżanek z pracy świetną okazją do refleksji nad OZE w waszym, unikatowym kontekście. 
 
@@ -30,7 +30,7 @@ Jeśli planujesz pisać o swoim udziale w kursie na Twitterze - oficjalny hastag
 
 **Czy jesteś gotów, aby rozpocząć kurs?** 
 -
-Aby przejść do polskiej wersji kursu, kliknij w link na górze strony odpowiadający tej wersji językowej i zarejestruj się. 
+Aby zarejestrować się na kurs, wpisz swoje imię i nazwisko oraz adres mailowy w okno na górze strony.
 
 **Pytania?**
 -
