@@ -2,6 +2,9 @@
 layout: index
 published: true
 ---
+**Rejestracja na kurs otwarta**
+-
+Kurs rozpocznie się **30 marca i potrwa 4 tygodnie do 26 kwietnia**. Aby zarejestrować się na kurs, wpisz w okno na górze strony: swoje imię i nazwisko, nazwę instytucji oraz adres mailowy, który będziesz wykorzystywać podczas kursu. Na zgłoszenia czekamy do 29 marca. 
 
 **Opis kursu**
 -
@@ -24,17 +27,19 @@ Po każdym tygodniu możesz otrzymać **cyfrową odznakę (badge)** za wykonaną
 
 W ramach kursu zostaną zorganizowane **webinary**, podczas których praktycy, eksperci i edukatorzy będą odnosić się do tematów poruszanych w kursie i odpowiedzą na twoje pytania. 
 
-To w jaki sposób będziesz angażować się w przebieg kursu zależy od ciebie. W wersji podstawowej możesz realizować go samodzielnie poprzez studiowanie materiałów i wykonywanie ćwiczeń. Możesz brać udział w dyskusjach z uczestnikami i cotygodniowych webinarach. Szczególnie zachęcamy cię jednak, abyś dzielił/ła się swoją wiedzą, doświadczeniem i refleksjami z kursu w twoim miejscu pracy. Jeśli to możliwe zachęć swoich współpracowników i jako grupa bądźcie obecni na kursie, dyskutujcie online, ale także offline. Taka forma zaangażowania w kurs będzie dla ciebie i twoich kolegów i koleżanek z pracy świetną okazją do refleksji nad OZE w waszym, unikatowym kontekście. 
+To w jaki sposób będziesz angażować się w przebieg kursu zależy od ciebie. W wersji podstawowej możesz realizować go samodzielnie poprzez studiowanie materiałów i wykonywanie ćwiczeń. Możesz brać udział w dyskusjach z uczestnikami i cotygodniowych webinarach. 
+
+Szczególnie zachęcamy cię jednak, abyś dzielił/ła się swoją wiedzą, doświadczeniem i refleksjami z kursu w twoim miejscu pracy. Jeśli to możliwe zachęć swoich współpracowników i jako grupa bądźcie obecni na kursie, dyskutujcie online, ale także offline. Taka forma zaangażowania w kurs będzie dla ciebie i twoich kolegów i koleżanek z pracy świetną okazją do refleksji nad OZE w waszym, unikatowym kontekście. 
 
 Jeśli planujesz pisać o swoim udziale w kursie na Twitterze - oficjalny hastag dla kursu to #explOERer.
 
-**Czy jesteś gotów, aby rozpocząć kurs?** 
+**Materiały w języku angielskim**
 -
-Aby zarejestrować się na kurs, wpisz swoje imię i nazwisko oraz adres mailowy w okno na górze strony.
+Kurs będzie prowadzony w j. polskim. Niektóre materiały, do których linkujemy w tekście kursu, są w języku angielskim dlatego do efektywnego udziału w kursie niezbędna jest znajomość języka angielskiego w stopniu pozwalającym na zrozumienie czytanego tekstu.  
 
 **Pytania?**
 -
-Jeśli masz pytania dotyczące kursu, napisz do nas na adres: karolinagrodecka@gmail.com
+Odpowiedzi na pytania dotyczące kursu udziela Karolina Grodecka (karolinagrodecka@gmail.com).
 
 **Podziękowania** 
 -
