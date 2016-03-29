@@ -1,7 +1,7 @@
 ---
-title: Discussion
+title: Forum dyskusyjne
 ---
 
-# Discussion
+# Forum dyskusyjne
 
 {% include disqus.html %}
