@@ -2,11 +2,10 @@
 layout: index
 published: true
 ---
-**Rejestracja na kurs otwarta**
+**Start kursu**
 -
-Kurs rozpocznie się **30 marca i potrwa 4 tygodnie do 26 kwietnia**. 
+Rejestracja na kurs została zamknięta 29 marca. Kurs rozpoczął się **30 marca i potrwa 4 tygodnie do 26 kwietnia**. 
 
-Aby zarejestrować się na kurs, wpisz w okno na górze strony: swoje imię i nazwisko, nazwę instytucji oraz adres mailowy, który będziesz wykorzystywać podczas kursu. **Na zgłoszenia czekamy do 29 marca.** 
 
 **Opis kursu**
 -
