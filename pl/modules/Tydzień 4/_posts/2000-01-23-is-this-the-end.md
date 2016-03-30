@@ -16,3 +16,4 @@ Aby zdobyć tą najważniejszą z odznak - odznakę explOERer! zapraszamy cię d
 Podziel się swoją refleksją na forum, a odznaka explOERer’a będzie twoja!
 
 <iframe height="180" src="//badges.p2pu.org/en/badge/view/788/embedded/" width="100%"></iframe>
+{% include disqus.html %}

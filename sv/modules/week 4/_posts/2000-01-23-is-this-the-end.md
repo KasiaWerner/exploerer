@@ -8,7 +8,7 @@ Tack så mycket för att du varit med. Vi hoppas att du har fått nytta av kurse
 
 För att förvärva den viktigaste av alla badger, The explOERer! ska du reflektera över följande frågor:  
 
- - Vad har varit den värdefullastet erfarenheten att ta med dig från kursen?
+ - Vad har varit den värdefullaste erfarenheten att ta med dig från kursen?
  - Vad har du lärt dig?
  - Har kursen ändrat ditt synsätt kring återanvändning och delning?
  - Vad ska du göra nu?
