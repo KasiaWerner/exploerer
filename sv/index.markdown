@@ -3,24 +3,20 @@ layout: index
 published: true
 ---
 
-**General description**
+**Kursbeskrivning**
 
-This open course will guide participants through the discovery, use and reuse of open educational resources (OER) for teaching purposes in all sectors of education. Together we will explore approaches to selecting and using materials that have been created by others, unpack the process of adaptation and discuss sharing and networking. This course will be highly attractive to both those who want to start using OER in their teaching and those who are already users but who are looking for an opportunity to create and share their own teaching resources for teaching.
+TDenna online-kurs handlar om att upptäcka, använda och återanvända öppna lärresurser (Open Educational Resources - OER) i undervisningen. Tillsammans kommer vi att undersöka hur man kan välja och använda material som har skapats av andra och diskutera delning av resurser på nätet. Kursen vänder sig brett till alla som vill börja använda OER i undervisningen och de som redan gör det men som letar efter en möjlighet att skapa och dela sina egna resurser för undervisning.
 
-**Learning outcomes**
+**Kursen är en MOOC**
 
- - Awareness of benefits and disadvantages of using OER
- - Ability to search, discover and evaluate OER
- - Understanding of the process of adapting and reusing OER for teaching
+Du kan gå kursen på egen hand och vara med i diskussioner, men du uppmuntras också att utforska nätets gränser på egen hand och reflektera.
 
-You can take the course on your own, participating in the conversations and weekly webinars, but you are also encouraged to step outside online boundaries: bring your reflections to your own workplace, do the course with a colleague and together share practices face-to-face.
+Kursen går under fyra veckor. Du kan räkna med cirka tre timmar per vecka när du arbetar igenom innehållet och göra de olika aktiviteterna som det passar din arbetsvecka. Varje vecka har du chansen att slutföra en aktivitet och få en "badge" om du vill; I slutet av kursen kan du i så fall få ExplOERer-badgen. Du kan också få ett certifikat på genomförd kurs.
 
-The course has a duration of four weeks. You are expected to spend approximately 3 hours per week working through the content and doing the different activities. Every week you will have the chance to complete an activity and earn a badge; at the end of the course, after reflecting openly on your experience, you will be awarded The ExplOERer! badge.
+Detta är en kurs om återanvändning så därför återanvänder vi avsiktligt så mycket innehåll som möjligt, förutsatt att det släppts/ är tillgängligt under en Creative Commons-licens som tillåter delning, återanvändning och bearbetning, naturligtvis! Alla källor är verifierade och refererade till. 
 
-This is a course about reuse so in putting it together we have purposely reused as much content as possible, provided it was released under a Creative Commons license allowing adaptation, of course! All sources have been clearly identified and appropriately attributed.
+Twittra gärna om kursen. Använd i så fall #explOERer -hashtagen.
 
-If you tweet about the course, please use the #explOERer hashtag.
+Har du någon fråga om kursen, maila oss på: exploererkurs [at] gmail [dot] com
 
-If you have a question about the course, email us at: exploerercourse [at] gmail [dot] com
-
-This course is part of the ExplOERer Project, co-funded by the European Commission under the Erasmus+ programme to promote OER sustainability through OER adoption and re-use in professional practice. To learn more about us, head over to http://www.exploerer.gu.se
+Denna kurs är en del av projektet ExplOERer, som är samfinansierat av Europeiska kommissionen inom ramen för Erasmus + för att främja hållbarhet inom OER och återanvändning i yrkespraktiker. I ExplOERer handlar det speciellt om undervisning. Om du vill veta mer om oss, gå till http://www.exploerer.gu.se
