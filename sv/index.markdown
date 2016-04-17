@@ -5,7 +5,7 @@ published: true
 
 **Kursbeskrivning**
 
-TDenna online-kurs handlar om att upptäcka, använda och återanvända öppna lärresurser (Open Educational Resources - OER) i undervisningen. Tillsammans kommer vi att undersöka hur man kan välja och använda material som har skapats av andra och diskutera delning av resurser på nätet. Kursen vänder sig brett till alla som vill börja använda OER i undervisningen och de som redan gör det men som letar efter en möjlighet att skapa och dela sina egna resurser för undervisning.
+Denna online-kurs handlar om att upptäcka, använda och återanvända öppna lärresurser (Open Educational Resources - OER) i undervisningen. Tillsammans kommer vi att undersöka hur man kan välja och använda material som har skapats av andra och diskutera delning av resurser på nätet. Kursen vänder sig brett till alla som vill börja använda OER i undervisningen och de som redan gör det men som letar efter en möjlighet att skapa och dela sina egna resurser för undervisning.
 
 **Kursen är en MOOC**
 
