@@ -37,5 +37,8 @@ This is a course about reuse so in putting it together we have purposely reused 
 
 This course is part of the ExplOERer Project, co-funded by the European Commission under the Erasmus+ programme to promote OER sustainability through OER adoption and re-use in professional practice. To learn more about us, head over to [http://www.exploerer.gu.se] [2]
 
+Learning to (Re)Use Open Educational Resources received an [Open Education Award for Excellence 2016] [3] in the category of Open MOOC.
+
 [1]:http://www.exploerercourse.org/en/modules/week%201/discussion/
 [2]:http://www.exploerer.gu.se
+[3]:http://www.oeconsortium.org/projects/open-education-awards-for-excellence/2016-winners-of-oe-awards/2016-oe-award-winners-site-course/
