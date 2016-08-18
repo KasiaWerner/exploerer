@@ -3,9 +3,8 @@ layout: index
 published: true
 ---
 
-**The course starts on February 22nd, are you ready?**
+**This course is now finished**
 -
-Fill in the fields above to register, browse the course content by clicking on the different weeks at the top left of the screen, and introduce yourself in the [forum][1].
 
 **General description**
 -
