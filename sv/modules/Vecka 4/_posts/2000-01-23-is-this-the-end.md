@@ -15,4 +15,3 @@ För att förvärva den viktigaste av alla badger, The explOERer! ska du reflekt
 
 Publicera din reflektion öppet och du har förvärvat The explOERer!
 
-<iframe height="180" src="" width="100%"></iframe>
