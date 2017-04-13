@@ -3,7 +3,7 @@ layout: index
 published: true
 ---
 
-**Välkommen**
+**Välkommen!**
 
 Denna online-kurs är en MOOC som handlar om att upptäcka, använda och återanvända öppna lärresurser (Open Educational Resources - OER) i undervisningen. Tillsammans kommer vi att undersöka hur man kan välja och använda material som har skapats av andra och diskutera delning av resurser på nätet. 
 
