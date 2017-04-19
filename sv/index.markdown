@@ -7,7 +7,8 @@ published: true
 
 Detta är en MOOC som handlar om att upptäcka, använda och återanvända öppna lärresurser (Open Educational Resources - OER) i undervisningen. 
 
-**Starta kursen genom att gå till Vecka 1 längst upp på sidan**
+**STARTA KURSEN GENOM ATT GÅ TILL VECKA 1 LÄNGST UPP PÅ SIDAN**
+
 
 Tillsammans kommer vi att undersöka hur man kan välja och använda material som har skapats av andra och diskutera delning av resurser på nätet. Kursen vänder sig brett till alla som vill börja använda OER i undervisningen och de som redan gör det men som letar efter en möjlighet att skapa och dela sina egna resurser för undervisning. Detta är en kurs om återanvändning så därför återanvänder vi avsiktligt så mycket innehåll som möjligt, förutsatt att det släppts/ är tillgängligt under en Creative Commons-licens som tillåter delning, återanvändning och bearbetning, naturligtvis! Alla källor är verifierade och refererade till. 
 
